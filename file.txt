@@ -1,3 +1,4 @@
 Changes in file.
 Changes for doing a readyness for git reset.
 Next change. 
+Add a new experimental functionality.
