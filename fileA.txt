@@ -1,3 +1,4 @@
 <<<<<<< HEAD
 Alex has a cat, dog and fish.
 This is a change of fileA for fast forward exercise.
+Testing stash command for video 15. 
