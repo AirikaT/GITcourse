@@ -2,3 +2,4 @@ Changes in file.
 Changes for doing a readyness for git reset.
 Next change. 
 Adding funcitonality to file.
+I will do some chenges here as well for testing.
