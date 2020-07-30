@@ -1,1 +1,2 @@
 Adding functionality D.
+Tring to  understand differnece of rebase or merge.
